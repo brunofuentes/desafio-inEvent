@@ -1,4 +1,4 @@
-const shortenName = require("./inEvent");
+const shortenName = require("./shortenName");
 
 test("string of names v1", () => {
     let name = "Yan Da Silva Fonsecaaaaaaaaaaaaaaa";
