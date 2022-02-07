@@ -1,6 +1,9 @@
 
 //Solution 1 --> using reduceRight
 
+// let name = "Bruno Veronese Fuentes";
+// shortenName(name);
+
 function shortenName(name){
     let input = name.trim();
     let inputArray = input.split(" ");
