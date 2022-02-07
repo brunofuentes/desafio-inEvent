@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "testing": "jest"
+    "test": "jest"
   },
-  "name": "job-challenges",
+  "name": "desafio-inEvent",
   "version": "1.0.0",
   "main": "inEvent.js",
   "author": "",
