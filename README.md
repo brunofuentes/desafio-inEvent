@@ -4,7 +4,10 @@ Escreva uma função que recebe um parâmetro string referente a um nome complet
 
 Exemplos:
 Input: Yan Rui Barbosa
+
 Output: Yan Rui B.
 
+
 Input: Yan Da Silva Fonseca
+
 Output: Yan Da S. F.
