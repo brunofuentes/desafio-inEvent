@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "testing": "jest"
+  },
+  "name": "job-challenges",
+  "version": "1.0.0",
+  "main": "inEvent.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
